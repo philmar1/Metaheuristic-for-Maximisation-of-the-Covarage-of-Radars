@@ -1,7 +1,7 @@
 # Metaheuristic-for-Maximisation-of-the-Covarage-of-Radars
 
 This project uses a metaheuristic approach in order to maximize the coverage of sensors displayed in an area. 
-A metaheuristic is a powerful optimization method used when the function to minimize is unknown.
+A metaheuristic is a powerful optimization method used when the function to optimize is unknown. The programming language I used is python.
 
 I developped an enhanced method of the annealing algorithm. For more information on the annealing algorithm, please refer to this link https://en.wikipedia.org/wiki/Simulated_annealing .
 
